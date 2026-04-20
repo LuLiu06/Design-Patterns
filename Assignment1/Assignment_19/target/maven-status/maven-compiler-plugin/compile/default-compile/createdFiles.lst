@@ -1,0 +1,5 @@
+fi/metropolia/assignment19/client/ChatClientController.class
+fi/metropolia/assignment19/mediator/ChatMediator.class
+fi/metropolia/assignment19/mediator/ChatClientColleague.class
+fi/metropolia/assignment19/ChatApp.class
+fi/metropolia/assignment19/mediator/ChatMediatorImpl.class
