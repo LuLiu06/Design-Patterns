@@ -19,10 +19,12 @@
         <module name="Assignment_6" />
         <module name="Assignment_7" />
         <module name="Assignment_9" />
+        <module name="Assignment_18" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Assignmant1" target="17" />
+      <module name="Assignment1" target="17" />
+      <module name="Assignment_18" target="17" />
       <module name="Assignment2" target="21" />
       <module name="Design_Patterns" target="17" />
     </bytecodeTargetLevel>

@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module version="4">
-  <component name="AdditionalModuleElements">
-    <content url="file://$MODULE_DIR$/Assignment1" dumb="true">
-      <sourceFolder url="file://$MODULE_DIR$/Assignment1/Assignment_7/src/main/java" isTestSource="false" />
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/Assignment1/out" />
+    <output-test url="file://$MODULE_DIR$/Assignment1/out/test" />
+    <content url="file://$MODULE_DIR$/Assignment1">
+      <excludeFolder url="file://$MODULE_DIR$/Assignment1/out" />
     </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
