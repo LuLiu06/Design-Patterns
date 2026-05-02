@@ -1,0 +1,11 @@
+fi/metropolia/assignment22/command/MoveCursorDownCommand.class
+fi/metropolia/assignment22/command/MoveCursorUpCommand.class
+fi/metropolia/assignment22/PixelArtEditorApp$1.class
+fi/metropolia/assignment22/model/PixelEditorModel.class
+fi/metropolia/assignment22/command/MoveCursorLeftCommand.class
+fi/metropolia/assignment22/command/GenerateCodeCommand.class
+fi/metropolia/assignment22/command/TogglePixelCommand.class
+fi/metropolia/assignment22/command/Command.class
+fi/metropolia/assignment22/PixelArtEditorApp.class
+fi/metropolia/assignment22/CommandInvoker.class
+fi/metropolia/assignment22/command/MoveCursorRightCommand.class

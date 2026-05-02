@@ -1,0 +1,10 @@
+/Users/liulu/Desktop/Design Patterns/Assignment1/Assignment_22/src/main/java/fi/metropolia/assignment22/CommandInvoker.java
+/Users/liulu/Desktop/Design Patterns/Assignment1/Assignment_22/src/main/java/fi/metropolia/assignment22/PixelArtEditorApp.java
+/Users/liulu/Desktop/Design Patterns/Assignment1/Assignment_22/src/main/java/fi/metropolia/assignment22/command/Command.java
+/Users/liulu/Desktop/Design Patterns/Assignment1/Assignment_22/src/main/java/fi/metropolia/assignment22/command/GenerateCodeCommand.java
+/Users/liulu/Desktop/Design Patterns/Assignment1/Assignment_22/src/main/java/fi/metropolia/assignment22/command/MoveCursorDownCommand.java
+/Users/liulu/Desktop/Design Patterns/Assignment1/Assignment_22/src/main/java/fi/metropolia/assignment22/command/MoveCursorLeftCommand.java
+/Users/liulu/Desktop/Design Patterns/Assignment1/Assignment_22/src/main/java/fi/metropolia/assignment22/command/MoveCursorRightCommand.java
+/Users/liulu/Desktop/Design Patterns/Assignment1/Assignment_22/src/main/java/fi/metropolia/assignment22/command/MoveCursorUpCommand.java
+/Users/liulu/Desktop/Design Patterns/Assignment1/Assignment_22/src/main/java/fi/metropolia/assignment22/command/TogglePixelCommand.java
+/Users/liulu/Desktop/Design Patterns/Assignment1/Assignment_22/src/main/java/fi/metropolia/assignment22/model/PixelEditorModel.java
